@@ -1,0 +1,101 @@
+﻿<Window 
+        x:Class="FaceTrackingBasics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:FaceTrackingBasics"
+        Title="Face Tracking Basics"
+        Closed="WindowClosed"
+        Height="735" Width="770" 
+        >
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e"/>
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#ff52318f"/>
+        <SolidColorBrush x:Key="KinectBlueBrush" Color="#ff00BCF2"/>
+    </Window.Resources>
+
+    <Grid>
+        <Canvas x:Name="MainCanvas" Width="500" Margin="128,304,134,74">
+            <Canvas.RenderTransform>
+                <TransformGroup>
+                    <RotateTransform x:Name="CanvasRotate" CenterX="250" CenterY="250" />
+                    <TranslateTransform x:Name="CanvasTranslate" />
+                </TransformGroup>
+            </Canvas.RenderTransform>
+
+            <!--cabeza-->
+            <Ellipse Width="300" Height="300" x:Name="Cara"  StrokeThickness="2" Stroke="Black" Canvas.Left="105" Canvas.Top="6" />
+            <!--ojo derecho-->
+            <Ellipse Width="30" Height="30" x:Name="ojoIzq" Stroke="Black" StrokeThickness="2" Canvas.Left="289" Canvas.Top="102">
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <TranslateTransform x:Name="ullDret" />
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+
+            <Ellipse Width="6" Height="6" x:Name="Pupila"  StrokeThickness="2" Stroke="Black" Fill="Black" Canvas.Left="302" Canvas.Top="116">
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <TranslateTransform x:Name="pupDre" />
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+            <!--ojo izquierdo-->
+            <Ellipse Canvas.Left="194" Canvas.Top="102" x:Name="ojoDer" Height="30" Stroke="Black" StrokeThickness="2" Width="30">
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <TranslateTransform x:Name="ullEsq" />
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+
+            <Ellipse Width="6" Height="6" x:Name="Pupila2"  StrokeThickness="2" Stroke="Black" Fill="Black" Canvas.Left="207" Canvas.Top="116">
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <TranslateTransform x:Name="pupEsq" />
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+            <!--boca-->
+            <Ellipse Canvas.Left="224" Canvas.Top="239" Height="18" x:Name="Mouth" Stroke="Black" StrokeThickness="2" Width="64" >
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <TranslateTransform x:Name="boca" />
+                        <ScaleTransform x:Name="bocaTransf" CenterX="32" CenterY="9" ScaleX="1" ScaleY="1"/>
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+
+            <!--ceja derecha-->
+            <Rectangle Width="70" Stroke="Black" Fill="Black" StrokeThickness="10" Height="5" Canvas.Left="169" Canvas.Top="80">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <TranslateTransform x:Name="cejaIzq" />
+                        <RotateTransform x:Name="RightBrowRotate" CenterX="50" Angle="0" />
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <!--ceja izquierda-->
+            <Rectangle  Width="70" Stroke="Black" Fill="Black" StrokeThickness="10" Height="5" Canvas.Left="274" Canvas.Top="80" >
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <TranslateTransform x:Name="cejaDer" />
+                        <RotateTransform x:Name="LeftBrowRotate" CenterX="20" Angle="0" />
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+
+            <!--nariz-->
+            <Polyline StrokeThickness="4" Points="40, 0, 25, 30, 50, 50" Stroke="Black" Canvas.Left="219" Canvas.Top="137" Width="44">
+                <Polyline.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform x:Name="bocaScale" CenterX="32" CenterY="19" ScaleX="1"/>
+                        <TranslateTransform x:Name="nariz" />
+                    </TransformGroup>
+                </Polyline.RenderTransform>
+            </Polyline>
+        </Canvas>
+        <Label Name="label" HorizontalAlignment="Left" Margin="199,171,0,0" VerticalAlignment="Top" Width="520" Height="78" FontSize="40"/>
+    </Grid>
+</Window>

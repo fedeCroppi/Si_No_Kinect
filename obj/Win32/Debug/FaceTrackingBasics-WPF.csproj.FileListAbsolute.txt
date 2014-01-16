@@ -1,0 +1,65 @@
+A:\Proyecto\FaceTrackingBasics-Cara\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\MainWindow.g.cs
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\App.g.cs
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+A:\Proyecto\FaceTrackingBasics-Cara\bin\x86\Debug\FaceTrackData.dll
+A:\Proyecto\FaceTrackingBasics-Cara\bin\x86\Debug\FaceTrackLib.dll
+A:\Proyecto\FaceTrackingBasics-Cara\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+A:\Proyecto\FaceTrackingBasics-Cara\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+A:\Proyecto\FaceTrackingBasics-Cara\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+A:\Proyecto\FaceTrackingBasics-Cara\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+A:\Proyecto\FaceTrackingBasics-Cara\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+A:\Proyecto\FaceTrackingBasics-Cara\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\MainWindow.baml
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\FaceTrackingViewer2.baml
+A:\Proyecto\FaceTrackingBasics-Cara\obj\Win32\Debug\FaceTrackingViewer2.g.cs
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\bin\x86\Debug\FaceTrackData.dll
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\bin\x86\Debug\FaceTrackLib.dll
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\FaceTrackingViewer2.baml
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\FaceTrackingViewer2.g.cs
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\MainWindow.g.cs
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\App.g.cs
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\MainWindow.baml
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+A:\Proyecto\FaceTrackingBasics-Cara - copia (2)\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\bin\x86\Debug\FaceTrackData.dll
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\bin\x86\Debug\FaceTrackLib.dll
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\obj\Win32\Debug\MainWindow.g.cs
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\obj\Win32\Debug\App.g.cs
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\obj\Win32\Debug\MainWindow.baml
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+A:\Proyecto\FaceTrackingBasics-Cara_SI_NO\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
